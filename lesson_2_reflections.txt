@@ -1,3 +1,11 @@
 What happens when you initialize a repository? Why do you need to it?
 
 This tells GIT that we would like to keep track of this file and possible creates a virtual copy so that we can keep up with changes. So that we can me use of the version control benefits.s
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is like a temporary holding place for those items which are about to be added to the a reposity.It allows you to controll exactly what should be committed
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I think you can add the affected files one by one to ensure that all will be committed at once in one commit, you can have multiple git adds and one git commit
