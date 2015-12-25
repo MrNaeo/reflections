@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to it?
+
+This tells GIT that we would like to keep track of this file and possible creates a virtual copy so that we can keep up with changes. So that we can me use of the version control benefits.s
