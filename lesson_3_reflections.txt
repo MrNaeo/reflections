@@ -1,1 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
 
+I am assuming when you want to have access to your work regardless of where you would be? I think if you are working out and about and need to keep developing your work then this will come in handy.
